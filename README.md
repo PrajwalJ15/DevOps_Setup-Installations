@@ -11,9 +11,7 @@
 * Docker/Conatiners
 * Kubernetes
 * Ansible
-* Terraform
 * AWS (Cloud)
-* Azure (Cloud)
 * Premotheous
 * Grafana
 * Chef
@@ -25,4 +23,3 @@
 # Hit the Star! ⭐
 ***If you are planning to use this repo for learning, please hit the star & fork. Thanks!***
 
-## Author by [Harshhaa Reddy](https://www.github.com/NotHarshhaa)
